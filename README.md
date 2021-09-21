@@ -1,5 +1,6 @@
 # Netflix-Clone
-## Front End Landing Page Netflix-Clone
+## Front End Landing Page Netflix-Clone 
+####  [ Take a view at : https://shivamparve0001.github.io/Netflix-Clone/ ]
 
 ![Screenshot 2021-09-21 092218](https://user-images.githubusercontent.com/70106309/134109212-a8cb387f-22a9-4086-b667-48d421b57c1b.png)
 
